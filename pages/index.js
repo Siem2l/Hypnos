@@ -14,7 +14,7 @@ export default function Home() {
           <Header title="ZZZZzzzz..." />
         </marquee>
         <h1>
-          ga is op de ALV letten.
+          ga is naar de presentatie luisteren
         </h1>
       </main>
     </div>
