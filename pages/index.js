@@ -13,6 +13,9 @@ export default function Home() {
         <marquee>
           <Header title="ZZZZzzzz..." />
         </marquee>
+        <h1>
+          ga is op de ALV letten.
+        </h1>
       </main>
     </div>
   )
