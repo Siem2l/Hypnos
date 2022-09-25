@@ -57,6 +57,11 @@ export default function Home() {
           </div>
         </div>
       </main>
+      <footer>
+      <div class="text-center text-xs">
+        <span><sub>Zwaar geinspireerd van stichtingsticky.nl®</sub></span>
+        </div>
+      </footer>
     </div>
   )
 }
