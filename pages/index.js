@@ -35,7 +35,7 @@ export default function Home() {
               <li>Siem van den Tweel, Huidiger Secretaris</li>
               <li>Ruben Baggen, BSc, Huidig Penningmeester</li>
               <li>Cerine Touber</li>
-              <li>Jack Rossman</li>
+              <li>Jack Rosenberg</li>
               <li>Jonathan Baumann, BSc</li>
               <li>Luc Blankestijn</li>
               <li>Laura Bröring</li>
