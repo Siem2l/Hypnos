@@ -69,7 +69,7 @@ export default function Home() {
               </ul>
               <br></br>
               <h2>Interesse?</h2>
-              <p class="text-xs">Stuur een slaapliedje in naar de Secretaris d.m.v Whatsapp, <a class="underline text-xs" href="mailto:info@dispuuthypnos.nl">info@dispuuthypnos.nl</a> of door middel van een postduif met een USB-stick eraan. Het adres voor de postduif is Princetonplein 5, 3584CC, Kamer 2.81 </p>
+              <p class="text-xs">Stuur een slaapliedje in naar de Secretaris d.m.v Whatsapp, <a class="underline text-xs" href="mailto:dispuuthypnos@gmail.com">info@dispuuthypnos.nl</a> of door middel van een postduif met een USB-stick eraan. Het adres voor de postduif is Princetonplein 5, 3584CC, Kamer 2.81 </p>
             </div>
             <div class="w-full">
               <h1>Contact</h1>
