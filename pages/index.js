@@ -56,16 +56,18 @@ export default function Home() {
               <h1 class=''>Huidige leden</h1>
               <br></br>
               <ul class='list-disc list-inside text-xs'>
-                <li>Julian Verouden, Huidig voorzitter</li>
-                <li>Siem van den Tweel, Huidiger Secretaris</li>
-                <li>Ruben Baggen, BSc, Huidig Penningmeester</li>
-                <li>Cerine Touber</li>
+                <li>Siem van den Tweel, BSc, Huidig Voorzitter</li>
+                <li>Julian Verouden, BSc, Huidig Secretaris</li>
+                <li>Jeroen van Dam, BSc, Huidig Penningmeester</li>
+                <li>Cerine Touber, BSc 2x </li>
                 <li>Jack Rosenberg</li>
                 <li>Jonathan Baumann, BSc</li>
                 <li>Luc Blankestijn</li>
-                <li>Laura Bröring</li>
+                <li>Laura Bröring, BSc </li>
                 <li>Lisa van Dijk</li>
                 <li>Lisanne Koetsier, BSc</li>
+                <li>Ruben Baggen, BSc</li>
+                <li>Shaam Majedi</li>
               </ul>
               <br></br>
               <h2>Interesse?</h2>
