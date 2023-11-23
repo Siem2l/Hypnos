@@ -59,6 +59,7 @@ export default function Home() {
                 <li>Siem van den Tweel, BSc, Huidig Voorzitter</li>
                 <li>Julian Verouden, BSc, Huidig Secretaris</li>
                 <li>Jeroen van Dam, BSc, Huidig Penningmeester</li>
+                <li>Aidan Bruinsma</li>
                 <li>Cerine Touber, BSc 2x </li>
                 <li>Jack Rosenberg</li>
                 <li>Jonathan Baumann, BSc</li>
